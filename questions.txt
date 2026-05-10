@@ -1,0 +1,33 @@
+Аггау -
+    Two SUM - HashMap/broutforce
+    Maximum Subarray - Kadane's algo
+    Move Zeros
+    Rotate Array
+    Trapping Rain Water
+String-
+    Valid anagram - given 2 strings and t, true if t is nanagramof s
+    Longest palindromic substring - return the longest substring of s which is a palindrom
+    Group Anagrams - Group string which is anagram of another
+    Longest common prefix - find the longest common prefix string among an array of string
+    Roman to Integer - conver a roman numeral to an integer
+
+
+linkedlist -
+    Reverse a singly linked list
+    Detect if cycle exist in a linkist
+    Merge sorte linkedlist into one
+    Remove Nth node from a end of list
+
+DP -
+    Climbing stairs - you can take 1-2 steps, how many distinct ways to reach top n stairs.
+    House Robbers - Cant rob adjacent house- max money you can orb
+    coin change - miniumumber of coins to make amount, return -1 if not possible
+    find Ingth of Longest incresing subsequence in array
+    Edit distance - min operation to convert word1 -> word2
+
+ Тгее -
+    Invert Binary Tree - filp the binary tree(mirror it)
+    Level Order Traversal - Retun nodes of binary tree level by level (BFS)
+    LCA of binary tree - Given root and two nodes pand a return their LCA
+    Diameter of binary tree- find the Inth of the longest path bw any two nodes.
+    Symmentric tree - Check if the tree is mirror of itself
