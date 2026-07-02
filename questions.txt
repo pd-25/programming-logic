@@ -31,3 +31,15 @@ DP -
     LCA of binary tree - Given root and two nodes pand a return their LCA
     Diameter of binary tree- find the Inth of the longest path bw any two nodes.
     Symmentric tree - Check if the tree is mirror of itself
+
+
+https://leetcode.com/problems/merge-sorted-array/
+
+https://medium.com/@vickdayaram/flatten-a-dictionary-a5fa4426bf9d
+
+https://leetcode.com/problems/group-anagrams/description/
+https://leetcode.com/problems/missing-number/description/
+
+Given a string inp = "aaabbcccdda" output a3b2c3d2a1
+
+https://medium.com/geekculture/system-design-design-a-rate-limiter-81d200c9d392
