@@ -31,3 +31,7 @@ DP -
     LCA of binary tree - Given root and two nodes pand a return their LCA
     Diameter of binary tree- find the Inth of the longest path bw any two nodes.
     Symmentric tree - Check if the tree is mirror of itself
+
+
+
+Write a python programm to reverse internal word
