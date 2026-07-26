@@ -35,3 +35,13 @@ DP -
 
 
 Write a python programm to reverse internal word
+https://leetcode.com/problems/merge-sorted-array/
+
+https://medium.com/@vickdayaram/flatten-a-dictionary-a5fa4426bf9d
+
+https://leetcode.com/problems/group-anagrams/description/
+https://leetcode.com/problems/missing-number/description/
+
+Given a string inp = "aaabbcccdda" output a3b2c3d2a1
+
+https://medium.com/geekculture/system-design-design-a-rate-limiter-81d200c9d392
